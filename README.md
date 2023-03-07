@@ -1,4 +1,4 @@
 # plunjoin
-`$\color{Thistle}射出一枚$`
+$\color{Thistle}社畜一枚$
 
 <font color=Salmon>Test</font>
